@@ -1,5 +1,5 @@
 # Formtastic-Rowan-Biets
-Form where you can pass along different pieces of data 
+Form where you can pass along different pieces of data, ik heb het forum kunnen maken met de nodige styling en heb een poging gedaan om data te saven via een database maar dit heb ik niet afgekregen...
 
 Links : 
 
